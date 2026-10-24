@@ -1,6 +1,7 @@
 ##  Weather Lookup App
 
-A browser-based weather lookup. Enter a city name to get current temperature,
+A browser based weather lookup.
+Enter a city name to get current temperature,
 humidity, wind speed, and timezone — resolved via geocoding and live forecast
 APIs.
 
